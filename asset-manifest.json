@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/reburgulator/static/css/main.4e9d8c2b.chunk.css",
+    "main.js": "/reburgulator/static/js/main.9d22048e.chunk.js",
+    "main.js.map": "/reburgulator/static/js/main.9d22048e.chunk.js.map",
+    "runtime-main.js": "/reburgulator/static/js/runtime-main.8259f070.js",
+    "runtime-main.js.map": "/reburgulator/static/js/runtime-main.8259f070.js.map",
+    "static/js/2.ba0e5091.chunk.js": "/reburgulator/static/js/2.ba0e5091.chunk.js",
+    "static/js/2.ba0e5091.chunk.js.map": "/reburgulator/static/js/2.ba0e5091.chunk.js.map",
+    "index.html": "/reburgulator/index.html",
+    "precache-manifest.3627ef520a89ce5b8e9545dbf876001c.js": "/reburgulator/precache-manifest.3627ef520a89ce5b8e9545dbf876001c.js",
+    "service-worker.js": "/reburgulator/service-worker.js",
+    "static/css/main.4e9d8c2b.chunk.css.map": "/reburgulator/static/css/main.4e9d8c2b.chunk.css.map",
+    "static/js/2.ba0e5091.chunk.js.LICENSE.txt": "/reburgulator/static/js/2.ba0e5091.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8259f070.js",
+    "static/js/2.ba0e5091.chunk.js",
+    "static/css/main.4e9d8c2b.chunk.css",
+    "static/js/main.9d22048e.chunk.js"
+  ]
+}
