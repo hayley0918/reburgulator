@@ -80,6 +80,7 @@ class App extends React.Component {
               <button onClick={()=>this.addTopping('patty')}>
                 patty
               </button>
+            </div>
             <div>
               <button onClick={()=>this.addTopping('sauce')}>
                 sauce
@@ -94,10 +95,9 @@ class App extends React.Component {
               <button onClick={this.createMelbourneTrifecta}>
                 MelbourneTrifecta
               </button>
+            </div>
             <div className="reset-btn">
               <button onClick={this.resetState}>Reset</button>
-            </div>
-            </div>
             </div>
           </div>
               <p>{howCheesy(burger)}</p>
