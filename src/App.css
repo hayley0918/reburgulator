@@ -1,0 +1,109 @@
+.App{
+    display: grid;
+    grid-template-columns: 1fr 3fr;
+    font-family: 'Roboto Mono', monospace;
+    min-height: 500px;
+}
+
+aside{
+    background-color: mistyrose;
+    text-align: center;
+}
+
+aside button{
+    margin: 10px;
+}
+
+.menu-wrapper{
+    background-color: white;
+    width: 80%;
+    margin: 0 auto;
+    border-radius: 10px;
+}
+
+main{
+    background-color: linen;
+    position: relative;
+}
+
+.burger-wrapper{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    width: 40%;
+    position: absolute;
+    bottom: 20px;
+    left: 30%;
+}
+
+.tomato{
+    border-radius: 14px;
+    background-color: #F13233;
+    height: 20px;
+    border-bottom: 5px solid #940C0E;
+    width: 90%;
+    margin: 0 auto;
+}
+
+.cheese{
+    background-color: #E8EA02;
+    border-radius: 10px;
+    height: 15px;
+    border-bottom: 5px solid #EAB902;
+    width: 90%;
+    margin: 0 auto;
+}
+
+.patty{
+    border-radius: 15px;
+    background-color: #603102;
+    height: 30px;
+    border-bottom: 16px solid #402408;
+    width: 90%;
+    margin: 0 auto;
+}
+
+.lettuce{
+    border-radius: 8px;
+    background-color: #80D041;
+    height: 8px;
+    border-bottom: 3px solid #0f6d12;
+    width: 90%;
+    margin: 0 auto;
+}
+
+.sauce{
+    height: 10px;
+    background-color: brown;
+    border-radius: 40px;
+    width: 90%;
+    margin: 0 auto;
+}
+
+.bun{
+    background-color: #e6af5d;
+    border-radius: 30px;
+    height: 60px;
+    border-bottom: 11px solid #724D12;
+}
+
+.plate{
+    background-color: #ADD8E6;
+    height: 20px;
+    width: 65%;
+    border-radius: 0 0 20px 20px;
+    position: absolute;
+    bottom: 0px;
+    left: 17.5%;
+}
+
+.reset-btn{
+    display: flex;
+    justify-content: center;
+    margin-right: 20px;
+    margin-left: 25px;
+}
+
+main p{
+    margin-left: 20px;
+}
