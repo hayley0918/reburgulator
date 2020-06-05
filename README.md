@@ -12,7 +12,7 @@ Is Melbounre Trifecta your favorite? There is a button on the menu. You can get 
 
 Enjoy your burger then!
 
-![reburgulator Image](../public/reburgulatorImg.png)
+![reburgulator Image](./public/reburgulatorImg.png)
 
 ## Built with
 
