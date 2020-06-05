@@ -1,3 +1,28 @@
+
+# Title
+
+Reburgulator
+[Click to see React Reburgulator App](https://hayley0918.github.io/reburgulator/)
+
+## About
+
+Built customized burger at your choice. It is the app you can create your own burger with ingredients of your choice. Depends on the number of cheese the name of burger will be displayed. With buttons on the menu you can add ingredients in your burger and by clicking the ingredient in your burger, you can take the ingredients out. 
+
+Is Melbounre Trifecta your favorite? There is a button on the menu. You can get it right a way on your plate!
+
+Enjoy your burger then!
+
+![reburgulator Image](../public/reburgulatorImg.png)
+
+## Built with
+
+- React
+
+## Deploy with
+
+github
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
